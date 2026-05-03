@@ -18,13 +18,13 @@ RESET = "\033[0m"
 
 # Hardcoded banner in green
 BANNER = f"{GREEN}"
-BANNER += "______                          ______  __             _____\n"
-BANNER += "___  / ______ __________  __    ___  / / /___  __________  /_____________\n"
-BANNER += "__  /  _  __ `/__  /_  / / /    __  /_/ /_  / / /_  __ \  __/  _ \_  ___/\n"
-BANNER += "_  /___/ /_/ /__  /_  /_/ /     _  __  / / /_/ /_  / / / /_ /  __/  /\n"
-BANNER += "/_____\__,_/ _____/\__, /      /_/ /_/  \__,_/ /_/ /_/\__/ \___//_/\n"
-BANNER += "                   /____/                                           v1.0\n"
-BANNER += "                                    LazyHunter Recon Tool Dev @iamunixtz\n"
+BANNER += "                  ______  __             _____\n"
+BANNER += "    ___  / / /___  __________  /_____________\n"
+BANNER += "    __  /_/ /_  / / /_  __ \  __/  _ \_  ___/\n"
+BANNER += "     _  __  / / /_/ /_  / / / /_ /  __/  /\n"
+BANNER += "      /_/ /_/  \__,_/ /_/ /_/\__/ \___//_/\n"
+BANNER += "                                                             v1.0\n"
+BANNER += "                                    CVE Hunter Recon Tool  @tahaXafous\n"
 BANNER += f"{RESET}"
 
 def signal_handler(sig, frame):
